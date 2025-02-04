@@ -1,5 +1,4 @@
-pip install transformers
-streamlit==1.19.0
-#transformers==4.26.0
-torch==1.13.1
-pip install transformers
+streamlit
+transformers
+torch
+sentencepiece
